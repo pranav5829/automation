@@ -19,6 +19,7 @@ public class BasePage implements WebDriver {
 
 	public void clickOnFlightTicketsButton(){
 		System.out.println("Clicking the Flight Ticket Button");
+		System.out.println("Hello");
 		WebElement flightTicketButtonElement = driver.findElement(FLIGHT_TICKETS);
 		if (flightTicketButtonElement.isDisplayed()||flightTicketButtonElement.isEnabled())
 			flightTicketButtonElement.click();
