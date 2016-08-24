@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77612" started-at="2016-08-11T05:53:59Z" finished-at="2016-08-11T05:55:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77612" started-at="2016-08-11T05:53:59Z" finished-at="2016-08-11T05:55:17Z">
+      <class name="com.irctc.common.tests.IrctcTest">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.irctc.common.tests.IrctcTest@2a5ca609]" name="openUrl" is-config="true" duration-ms="16929" started-at="2016-08-11T11:23:59Z" finished-at="2016-08-11T11:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="irctcTest()[pri:0, instance:com.irctc.common.tests.IrctcTest@2a5ca609]" name="irctcTest" duration-ms="60641" started-at="2016-08-11T11:24:16Z" finished-at="2016-08-11T11:25:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcTest -->
+      </class> <!-- com.irctc.common.tests.IrctcTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
